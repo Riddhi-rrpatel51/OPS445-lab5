@@ -6,5 +6,5 @@ OPS445 Lab Report - System Information for running ./CheckLab5.py
     Python version: 3123
     OS Platform: linux
     Working Directory: /home/rrpatel51/ops445/lab5
-    Start at: Mon Oct 21 00:03:10 2024
+    Start at: Mon Oct 21 00:06:03 2024
 =================================================================
